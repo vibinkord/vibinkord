@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm Vibin Richard D
 
-<!--
-**vibinkord/vibinkord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend & Full Stack Developer
 
-Here are some ideas to get you started:
+🚀 Passionate about building scalable backend systems, cloud-native applications, and AI-powered products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Currently Working On
+
+- 🏢 Troop360
+- 🚀 DEV.STATION
+- 📄 AI Resume Analyzer
+
+---
+
+## 🌱 Currently Learning
+
+- Kubernetes
+- Jenkins
+- System Design
+- AWS DevOps
+- Testing Automation
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+Java • JavaScript • SQL • Python • C
+
+### Frontend
+React • HTML • CSS • Bootstrap • Tailwind
+
+### Backend
+Spring Boot • Node.js • Express
+
+### Database
+PostgreSQL • MySQL • Redis
+
+### Cloud & DevOps
+AWS • Docker • Kubernetes • Jenkins • Linux • GitHub Actions
+
+### Tools
+Git • GitHub • Postman • VS Code • IntelliJ IDEA
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn
+- Portfolio
+- Email
