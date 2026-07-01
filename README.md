@@ -45,7 +45,7 @@
   - Scalable REST API architecture
   - Docker containerization for deployment
   
-🔗 **[View Repository](PASTE_REPO_LINK_HERE)** | 📊 **[Live Demo](PASTE_DEMO_LINK_HERE)**
+🔗 **[View Repository](PASTE_REPO_LINK_HERE)** 
 
 ---
 
@@ -61,8 +61,7 @@
   - ⚡ Career score calculation engine
   - 🤖 AI-powered code review recommendations
 
-🔗 **[View Repository](PASTE_REPO_LINK_HERE)** | 📊 **[Live Demo](PASTE_DEMO_LINK_HERE)**
-
+🔗 **[View Repository](PASTE_REPO_LINK_HERE)** 
 ---
 
 ### 3. 📄 **AI Resume Analyzer** — Intelligent Resume Scoring Engine
@@ -125,21 +124,6 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
-
-## 🌱 Open Source Contributions
-
-I'm passionate about contributing to the developer community. Here are my contributions:
-
-| Project | Type | Status | Link |
-|---------|------|--------|------|
-| **Spring Boot** | Bug Fix / Feature | ✅ Merged | [#XXXX](https://github.com/spring-projects/spring-boot/pull/XXXX) |
-| **[Project Name]** | Documentation | ✅ Merged | [View PR](LINK) |
-| **[Project Name]** | Performance Optimization | ⏳ In Review | [View PR](LINK) |
-
-> 💡 **Looking to contribute more in 2026!** Actively seeking beginner-friendly issues in Spring Boot, React, and DevOps tooling.
-
-
-
 ---
 
 ## 📊 GitHub Stats & Activity
